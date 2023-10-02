@@ -4,4 +4,6 @@ function festivalAnswer(){
   if(passwordText=="Cannes Lions"){
     return true;
   }
-alert ("Try again!")
+alert ("Try again!");
+  return false;
+}
